@@ -7,6 +7,7 @@ guidelines, with the following changes:
 
 * Indents are 4 spaces instead of 2
 * `uk.gov` imports are listed first instead of `com.google`
+* `java` and `javax` imports are listed before 3rd party imports
 
 It is not possible to entirely rely on IDE auto-formatting to enforce these rules. However, The following IDE settings can be
 used to minimise the effort.
