@@ -1,4 +1,4 @@
-# CJS Common Platform Code Style
+# CJS Common Platform Code Style Guide
 
 ## Java
 
@@ -13,10 +13,10 @@ used to minimise the effort.
 
 ### Intellij
 
-* Download the [Intellij CJS Common Platform Style](https://github.com/google/styleguide/raw/master/intellij-java-cjs-style.xml) file.
+* Download the [Intellij CJS Common Platform Style](https://github.com/CJSCommonPlatform/styleguide/raw/master/intellij-java-cjs-style.xml) file.
 * In Intellij, go to Settings > Code Style > Manage... and import the downloaded file.
 
 ### Eclipse
 
-* Download the [Eclipse CJS Common Platform Style](https://github.com/google/styleguide/raw/master/eclipse-java-cjs-style.xml) file.
+* Download the [Eclipse CJS Common Platform Style](https://github.com/CJSCommonPlatform/styleguide/raw/master/eclipse-java-cjs-style.xml) file.
 * ???
